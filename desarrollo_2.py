@@ -4,5 +4,3 @@ import slugify
 import tiktoken
 
 print('xx')
-
-slugify.slugify('CATEGORY_TITLE')
